@@ -1,0 +1,12 @@
+server:
+  port: 8090
+  context-path: /hello
+
+test:
+  name: lisi
+  age: 60
+
+#logback  配置
+logging:
+  file: d:/logs/springboot-prod.log
+

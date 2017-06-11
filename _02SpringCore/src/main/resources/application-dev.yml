@@ -1,0 +1,11 @@
+server:
+  port: 8080
+  context-path: /hello
+
+test:
+  name: zhangsan
+  age: 50
+
+#logback  配置
+logging:
+  file: d:/logs/springboot-dev.log
